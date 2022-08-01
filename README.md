@@ -18,7 +18,7 @@
 
 ## 数据库
 
-* Mysql
+* [Mysql](https://app.gitbook.com/s/QPk9RfNv6tGENEGO9bft/)
 * Redis
 
 ## 消息队列
